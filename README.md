@@ -11,7 +11,7 @@
 
 <div style="margin-top:40px;">
   <p>QR Tools: </p>
-  <a href="https://github.com/user-attachments/files/22061570/Nexor.QR.zip">
+  <a href="https://github.com/Emiliano-HN/Z-Nexor/archive/refs/tags/QR-Nexor.zip">
     <img src="Nexor-Data/Nexor-imagenes/QR-logo.png" width="150" alt="QR code">
   </a>
 </div>
