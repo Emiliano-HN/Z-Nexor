@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-<a href="https://emiliano-hn.github.io/Nexor/">
+<a href="emiliano-hn.github.io/Z-Nexor/">
   <img src="Nexor-Data/Nexor-imagenes/Nexor-logo-oficial.png" alt="Logo" width="400" style="margin-top:-10px;" />
 </a>
 </div>
@@ -74,7 +74,7 @@ escaneo_total()
 <a href="https://github.com/user-attachments/files/22035939/Nexor-v2.9.4.zip">
   <img src="Nexor-Data/Nexor-imagenes/2.9.4.png" alt="2.9.4" width="65" style="margin-top:-10px;" />
 </a> 
-<a href="https://emiliano-hn.github.io/Nexor/#download">
+<a href="emiliano-hn.github.io/Z-Nexor/#download">
   <img src="Nexor-Data/Nexor-imagenes/3.0.2.png" alt="3.0.2" width="65" style="margin-top:-10px;" />
 </a>   
 </p>
